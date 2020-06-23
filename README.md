@@ -1,2 +1,2 @@
-# Brownian-Motion-Freez-Tag
+# Brownian-Motion-Freeze-Tag
 Scratch Project 
